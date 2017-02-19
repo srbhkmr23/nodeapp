@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/srbhkmr23/nodeapp/issues"
   },
-  "homepage": "https://github.com/srbhkmr23/nodeapp"
+  "homepage": "https://github.com/srbhkmr23/nodeapp",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
 }
